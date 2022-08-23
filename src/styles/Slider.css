@@ -1,0 +1,14 @@
+
+
+
+@media screen and (max-width: 415px) {
+    img {
+        padding: 0px;
+        height: 170px;
+        width: 250px !important;
+     }
+     .top {
+        padding-left: 15px;
+     }
+     
+  }

@@ -1,0 +1,8 @@
+.bottomNav {
+    position: sticky;
+    top: 0;
+    margin: 35px auto;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 50px;
+}
